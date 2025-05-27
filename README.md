@@ -1,6 +1,6 @@
 # HR Analytics Dashboard in Tableau
 ### 🧾 Project Overview
-This Tableau dashboard project was completed by following a tutorial from the [Data With Bara][https://youtu.be/UcGF09Awm4Y?si=I0U5Pz5uvd0tL8X6] YouTube channel. It explores Human Resources (HR) analytics, presenting insights into employee demographics, department metrics, compensation trends, and individual employee details using multiple visualizations.
+This Tableau dashboard project was completed by following a tutorial from the [Data With Bara](https://youtu.be/UcGF09Awm4Y?si=I0U5Pz5uvd0tL8X6) YouTube channel. It explores Human Resources (HR) analytics, presenting insights into employee demographics, department metrics, compensation trends, and individual employee details using multiple visualizations.
 
 The dataset used for this project was generated using ChatGPT, simulating realistic HR data for analysis.
 
@@ -34,13 +34,16 @@ The dataset includes:
 - 🎯 Interactive Filters: Users can drill down into insights using dynamic filters for detailed exploration.
 
 ### Dashboard Overview
+![Dashboard overview](
 
+#### View the full report on tableau pulic
+[click on the link](https://public.tableau.com/shared/HN2G2WKYZ?:display_count=n&:origin=viz_share_link)
 
 
 ### 🎓 Skills Demonstrated
 - 📌 Data preparation and cleaning
 
-- 📈 Building dynamic dashboards in Tableau
+- 📈 Planing & building dynamic dashboards in Tableau
 
 - 🔍 Creating interactive filters and KPIs
 
