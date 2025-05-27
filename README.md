@@ -34,7 +34,13 @@ The dataset includes:
 - 🎯 Interactive Filters: Users can drill down into insights using dynamic filters for detailed exploration.
 
 ### Dashboard Overview
-![Dashboard overview](
+Dashboard overview
+(![image](https://github.com/user-attachments/assets/f154a726-ca72-4cd4-a890-2d0d0ab74cad)
+
+Details 
+
+![image](https://github.com/user-attachments/assets/ee3c992c-7d8a-459d-a135-8c0fcb3501b0)
+
 
 #### View the full report on tableau pulic
 [click on the link](https://public.tableau.com/shared/HN2G2WKYZ?:display_count=n&:origin=viz_share_link)
